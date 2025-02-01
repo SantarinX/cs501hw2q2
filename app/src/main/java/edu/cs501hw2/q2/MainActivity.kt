@@ -27,12 +27,12 @@ import androidx.compose.ui.layout.ContentScale
 //•	Add captions below each photo
 
 val allPhotos = listOf(
-    Pair(R.drawable.image1,"image1"),
-    Pair(R.drawable.image2,"image2"),
-    Pair(R.drawable.image3,"image3"),
-    Pair(R.drawable.image4,"image4"),
-    Pair(R.drawable.image5,"image5"),
-    Pair(R.drawable.image6,"image6")
+    Pair(R.drawable.image1,"Instagram Logo"),
+    Pair(R.drawable.image2,"PNG Logo"),
+    Pair(R.drawable.image3,"Apple Logo"),
+    Pair(R.drawable.image4,"Facebook Logo"),
+    Pair(R.drawable.image5,"Mario"),
+    Pair(R.drawable.image6,"Star Logo")
 )
 
 class MainActivity : ComponentActivity() {
